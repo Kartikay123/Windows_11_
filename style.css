@@ -13,7 +13,7 @@ body{
 .taskbar{
     background-color: #f3f3f3;
     width: 100%;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     display: flex;
     z-index: 110;
@@ -24,6 +24,7 @@ body{
     position: absolute; 
     bottom: -655px;
     width: 100%;
+    align-items: center;
     text-align: center;
     transition: all 0.3s ease-in; 
 }
