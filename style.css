@@ -22,7 +22,6 @@ body{
 
 .startmenu{
     position: absolute; 
-    /* bottom: 50px; */
     bottom: -655px;
     width: 100%;
     text-align: center;
